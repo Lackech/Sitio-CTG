@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 3.2//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/2.5/template-install.dtd">
+<extension version="3.0" type="template" client="site">
+	<name>prueba</name>
+	<creationDate>2018-01-01</creationDate>
+	<updateDate>2018-02-19</updateDate>
+	<version>1.1.0</version>
+	<author>Alejandro Chacon</author>
+    <copyright>Lackech</copyright>
+    <license>GNU/GPL</license>
+    <description>Plantilla para el congreso</description>
+
+    <files>
+    	<filename>index.php</filename>
+    	<filename>templateDetails.xml</filename>	
+    	<folder>css</folder>
+    </files>
+
+    <positions>
+    	<position>menu</position>
+    	<position>left-side</position>
+        <position>right-side</position>
+        <position>content</position>
+        <position>content-top</position>
+        <position>content-bottom</position>
+        <position>fullcontent-top</position>
+        <position>fullcontent-bottom</position>
+        <position>footer-right</position>
+        <position>footer-left</position>
+        <position>footer-menu-1</position>
+        <position>footer-menu-2</position>
+        <position>footer-menu-3</position>
+        <position>breadcrumbs</position>
+    	
+    </positions>
+</extension>
+
