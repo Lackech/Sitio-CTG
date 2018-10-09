@@ -532,3 +532,8 @@
 /joomla.xml
 /*.txt
 /robots.txt.dist
+/beez3/*
+/congreso/*
+/protostar/*
+/system/*
+
